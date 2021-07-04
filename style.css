@@ -44,7 +44,7 @@ html {
     display: grid;
     grid-template-columns: auto auto;
     border-bottom: 1px solid black;
-    background-color: #f1dee807;
+    background-color: #e92121e1;
   }
   
   .fixed-top {
